@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Catalin Vajaiala
 
 You can use the [editor on GitHub](https://github.com/CVajaiala/CVajaiala.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
