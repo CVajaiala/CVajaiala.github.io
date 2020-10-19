@@ -1,0 +1,65 @@
+.btn-default,
+.btn-default:hover,
+.btn-default:focus {
+  color: #333;
+  text-shadow: none;
+  background-color: rgba(255,255,255,0.8);
+  border: none;
+  box-shadow: 0 1px 3px rgba(0,0,0,.5);
+  min-width: 49px;
+}
+
+.btn-default:hover {
+  background-color: rgba(255,255,255,1.0);
+}
+.img-rounded {
+    border-radius: 50%;
+    box-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+
+#picture_col {
+  display: inline-block;
+  width: 200px;
+  vertical-align: top;
+  padding-top: 30px;
+}
+
+#text_col {
+  padding-top: 200px;
+  padding-left: 250px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
+}
+
+html,
+body {
+  background-image: url(https://obsidianchronicleslarp.com.au/wp-content/uploads/site-background.jpg);
+  background-color: rgba(50, 69, 52, 0.8)
+}
+body {
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+}
+
+.site-wrapper {
+    padding-top: 20px;
+    display: table;
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
+    -webkit-box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+            box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+  }
+  .site-wrapper-inner {
+    display: table-cell;
+    vertical-align: top;
+  }
+  .cover-container {
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+
+
